@@ -107,15 +107,12 @@ x86/
 *.docstates
 *.dotCover
 *.xml
-*.html
 *.resx
-*.css
 *.js
 *.aspx
 *.asax
 *.ascx
 *.master
-*.manifest
 *.settings
 *.vsmdi
 *.testsettings
